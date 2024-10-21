@@ -38,7 +38,7 @@ To run this project, you will need the following:
 
    ```env
    PRIVATE_KEY=your_private_key
-   RPC_URL=https://bsc-dataseed.binance.org/   # Or your preferred BSC RPC URL
+   RPC_URL=https://bsc-dataseed1.binance.org/
    ONE_INCH_API_KEY=your_1inch_api_key
    ```
 
