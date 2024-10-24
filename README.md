@@ -1,3 +1,4 @@
+
 # 1inch Fusion Swap Project
 
 This project provides an implementation of a token swap on Binance Smart Chain (BSC) using the 1inch Fusion SDK. The script demonstrates how to:
@@ -28,10 +29,10 @@ To run this project, you will need the following:
    cd 1inch-fusion
    ```
 
-2. Install the dependencies:
+2. Install the dependencies using yarn:
 
    ```bash
-   npm install
+   yarn install
    ```
 
 3. Create a `.env` file in the root directory and add the following variables:
@@ -49,7 +50,7 @@ You can run the script using Node.js to perform a token swap on the Binance Smar
 ### Example Command
 
 ```bash
-node index.js
+yarn start
 ```
 
 ### Main Features
